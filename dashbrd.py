@@ -4,7 +4,7 @@ import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
 
-domestic_stuff = pd.read_csv('domestic_yearly_sum.csv')
+domestic_stuff = pd.read_csv('domestic_visitors.csv')
 
 dom = pd.read_csv('total_2016.csv')
 forr = pd.read_csv('total_2019.csv')
