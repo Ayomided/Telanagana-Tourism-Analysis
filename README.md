@@ -1,6 +1,6 @@
 # Telanagana-Tourism-Analysis
 
-##### This is my first data analysis using data from codebasics resume challenge.
+#### This is my first data analysis using data from codebasics resume challenge.
 
 With this data i was able to practice what i have learnt on python, pandas, and data visualizations with streamlit. I did this project using VSCode and created a virtual environment using miniconda to run all my program. 
 
